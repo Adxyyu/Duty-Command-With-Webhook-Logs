@@ -1,5 +1,5 @@
 Config = {
-    discordWebhook = 'https://discordapp.com/api/webhooks/1265566608613441577/6Tx_Q0D4mH25LeuvBq6bYFkGiaYqSgA2dcgvGd-DIsweKxcrWKIRwstWWeyUS0MP1Fqo',
+    discordWebhook = 'UR_DISCORD_WEBHOOK',
 
     departments = {
         sasp = {
